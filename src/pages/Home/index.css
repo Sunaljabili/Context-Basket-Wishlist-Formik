@@ -1,0 +1,11 @@
+.card{
+    border: 1px solid black;
+    width: 250px;
+    margin: 10px;
+    height: 100px;
+}
+.items-card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
